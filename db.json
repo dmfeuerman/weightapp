@@ -1,4 +1,4 @@
-[
+{"weights":[
   {
     "id": "aec623a2-a98f-405f-bb44-7723f03146f3",
     "icon_url": "https://picsum.photos/400/400?image=135"
@@ -40,3 +40,4 @@
     "icon_url": "https://picsum.photos/400/400?image=179"
   }
 ]
+}
